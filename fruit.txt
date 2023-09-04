@@ -1,0 +1,4 @@
+Fruit name:
+
+Apple
+Mango
