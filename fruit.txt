@@ -2,3 +2,6 @@ Fruit name:
 
 Apple
 Mango
+
+orange
+berry
